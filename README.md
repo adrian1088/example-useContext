@@ -19,7 +19,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/adrian1088/auth-firebase-test.git .
+git clone https://github.com/adrian1088/example-useContext.git .
 ```
 
 - Install all the project's dependencies:
@@ -28,24 +28,12 @@ yarn or npm install
 ```
 - Once that's done, run the project:
 ```
-npm dev or yarn dev
+npm run dev or yarn run dev
 ```
-
-# Deployment
-The app can be deployed using either heroku, firebase hosting or Netlify
-
 # Built With
 - Javascript
-- React - [react-bootstrap](https://react-bootstrap.github.io/)
+- React js
+- vite
 
 # Authors
 José Maldonado Pozo
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Conta
